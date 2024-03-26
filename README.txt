@@ -15,10 +15,11 @@ Please refer to the above publication if you use this code. Thank you.
 Requirements:
     CUDA  10
     Python  3.6
-    Tensorflow  1.9.0
+    Tensorflow  1.9.0/1.5.0
     numpy  1.16.2
     cv2  4.5.1.48
     scipy 1.1.0
+    Pillow
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
